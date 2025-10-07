@@ -36,7 +36,7 @@ https://github.com/kapilsharma2411/assignment5_1_starter/blob/4350c7e3ceb97ff838
 - And drivers with adults passangers who are not widowed are more likely to accept Bar coupons.
 
 # Coffee House Coupon Analysis : 
-- Most people never visited Coffee House followed by people who visit coffee house 1~3 times a month, followed by 4~8 times a month. Very few people visit coffee house more than 8 times a week.
+- Most people never visited Coffee House followed by people who visit coffee house 1-3 times a month, followed by 4-8 times a month. Very few people visit coffee house more than 8 times a week.
 - we can see that people who visit bar more frequently are 41% more likely to accept Bar coupons compared to people who went to bar 3 or fewer times a month.
 - Also bar chart shows that people with high coffee house visit frequency are more likely to accept Coffee House coupons.
 - There are very few entries with age under or equal to 25 in the dataset. So, we cannot confidently compare the acceptance rate of Coffee House coupons based on age group.
